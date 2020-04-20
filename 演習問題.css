@@ -23,6 +23,10 @@ section {
 	border: 1px solid #eee;
 }
 
+section:nth-child(2) {
+	margin: 0 30px;
+}
+
 span {
 	position : absolute;
 	top: 0;
